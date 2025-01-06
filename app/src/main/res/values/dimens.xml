@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="section_title">22sp</dimen>
+    <dimen name="home_title">36sp</dimen>
+    <dimen name="timer">22sp</dimen>
+</resources>

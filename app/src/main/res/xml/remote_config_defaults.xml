@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <!-- ADS -->
+    <entry>
+        <key>GDPR_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>ADS_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>BANNER_HOME_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>BANNER_GAME_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>INTERSTITIAL_START_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>INTERSTITIAL_END_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>REWARDED_REWIND_AD_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>PUBLISHER_ID</key>
+        <value>pub-2106508532272950</value>
+    </entry>
+
+    <!-- Settings -->
+    <entry>
+        <key>FILES_VERSION</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>INSTRUCTIONS_ENABLED</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>INTERNET_REQUIRED</key>
+        <value>true</value>
+    </entry>
+
+    <!-- Others -->
+    <entry>
+        <key>DEVELOPER_EMAIL</key>
+        <value>yesserly@gmail.com</value>
+    </entry>
+    <entry>
+        <key>PRIVACY_POLICY_URL</key>
+        <value>https://yesserly.com/wordly/privacy_policy</value>
+    </entry>
+    <entry>
+        <key>INSTRUCTIONS_URL</key>
+        <value></value>
+    </entry>
+</defaultsMap>
