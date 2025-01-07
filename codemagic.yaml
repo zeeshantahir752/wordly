@@ -1,3 +1,9 @@
-git add codemagic.yaml
-git commit -m 'Add first workflow'
-git push
+workflows:
+
+  hello-world:
+
+    name: Hello world workflow
+
+    scripts:
+
+        - echo "Hello World!"
